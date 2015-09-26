@@ -9,7 +9,7 @@ http://www.apache.org/licenses/LICENSE-2.0
 
 | File Name | URL |
 | --------- | --- |
-| magician_stand.fcstd | https://github.com/ProgrammingRobotsStudyGroup/Designs/blob/master/ROSROVREV2/chassis/magician_stand.fcstd |
+| magician_stand.fcstd | https://github.com/ProgrammingRobotsStudyGroup/Designs/blob/master/ROSROVREV1/chassis/magician_stand.fcstd |
 | prototype_chassisv1.0.fcstd | https://github.com/ProgrammingRobotsStudyGroup/Designs/blob/master/ROSROVREV2/chassis/prototype_chassisv1.0.fcstd |
-| prototype_chassisv2.0.fcstd | https://github.com/ProgrammingRobotsStudyGroup/Designs/blob/master/ROSROVREV1/chassis/prototype_chassisv2.0.fcstd |
+| prototype_chassisv2.0.fcstd | https://github.com/ProgrammingRobotsStudyGroup/Designs/blob/master/ROSROVREV2/chassis/prototype_chassisv2.0.fcstd |
 
